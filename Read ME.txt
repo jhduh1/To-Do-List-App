@@ -1,0 +1,7 @@
+# To-Do-List-App
+A simple app where you can add, remove and cut off your to do lists. The app is made using HTML, CSS and Jquery.
+Simply put all the files in the same directory and open the Todolist html file using a web browser(chrome preferred).
+Add your to do list in the "Add New Todo" placeholder.
+CLick on the plus icon to toggle your placeholder.
+CLick on the trash font icon to delete your existing to do lists(it comes with three lists by default).
+Click on the to do lists(not the trash icon) to simply cutoff your to do lists and not permanently delete it.
